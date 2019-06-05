@@ -4,4 +4,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/floraalim/practice.git
 git push -u origin master
-Echo "finish story"
+Echo "finish story in the git hub network"
